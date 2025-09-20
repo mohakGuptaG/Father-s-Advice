@@ -1,0 +1,622 @@
+2025-04-06 04:04:02,827 - INFO - Environment variables loaded
+2025-04-06 04:04:02,829 - INFO - Flask app created with CORS enabled
+2025-04-06 04:04:02,830 - INFO - Gemini API configured
+2025-04-06 04:04:02,832 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:04:05,373 - INFO - Successfully connected to MongoDB
+2025-04-06 04:04:05,375 - INFO - Starting mentor_processor service on port 3001
+2025-04-06 04:04:05,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3001
+ * Running on http://192.168.97.185:3001
+2025-04-06 04:04:05,392 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:04:48,227 - INFO - Environment variables loaded
+2025-04-06 04:04:48,228 - INFO - Flask app created with CORS enabled
+2025-04-06 04:04:48,229 - INFO - Gemini API configured
+2025-04-06 04:04:48,229 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:04:49,237 - INFO - Successfully connected to MongoDB
+2025-04-06 04:04:49,238 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:04:49,252 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:04:49,253 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:04:51,499 - INFO - 127.0.0.1 - - [06/Apr/2025 04:04:51] "GET /test HTTP/1.1" 200 -
+2025-04-06 04:06:44,058 - INFO - 127.0.0.1 - - [06/Apr/2025 04:06:44] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:22:26,772 - INFO - Environment variables loaded
+2025-04-06 04:22:26,776 - INFO - Flask app created with CORS enabled
+2025-04-06 04:22:26,776 - INFO - Gemini API configured
+2025-04-06 04:22:26,776 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:22:27,923 - INFO - Successfully connected to MongoDB
+2025-04-06 04:22:27,924 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:22:27,949 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:22:27,950 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:29:21,656 - INFO - Environment variables loaded
+2025-04-06 04:29:21,658 - INFO - Flask app created with CORS enabled
+2025-04-06 04:29:21,658 - INFO - Gemini API configured
+2025-04-06 04:29:21,658 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:29:22,881 - INFO - Successfully connected to MongoDB
+2025-04-06 04:29:22,883 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:29:22,899 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:29:22,899 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:29:24,681 - INFO - 127.0.0.1 - - [06/Apr/2025 04:29:24] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:33:18,422 - INFO - Environment variables loaded
+2025-04-06 04:33:18,425 - INFO - Flask app created with CORS enabled
+2025-04-06 04:33:18,425 - INFO - Gemini API configured
+2025-04-06 04:33:18,425 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:33:20,226 - INFO - Successfully connected to MongoDB
+2025-04-06 04:33:20,227 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:33:20,241 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:33:20,242 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:33:21,248 - INFO - 127.0.0.1 - - [06/Apr/2025 04:33:21] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:33:54,010 - INFO - Environment variables loaded
+2025-04-06 04:33:54,013 - INFO - Flask app created with CORS enabled
+2025-04-06 04:33:54,013 - INFO - Gemini API configured
+2025-04-06 04:33:54,013 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:33:55,569 - INFO - Successfully connected to MongoDB
+2025-04-06 04:33:55,571 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:33:55,585 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:33:55,585 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:33:57,209 - INFO - 127.0.0.1 - - [06/Apr/2025 04:33:57] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:34:50,188 - INFO - Environment variables loaded
+2025-04-06 04:34:50,189 - INFO - Flask app created with CORS enabled
+2025-04-06 04:34:50,189 - INFO - Gemini API configured
+2025-04-06 04:34:50,189 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:34:51,066 - INFO - Successfully connected to MongoDB
+2025-04-06 04:34:51,067 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:34:51,082 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:34:51,082 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:34:53,101 - INFO - 127.0.0.1 - - [06/Apr/2025 04:34:53] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:36:52,544 - INFO - Environment variables loaded
+2025-04-06 04:36:52,546 - INFO - Flask app created with CORS enabled
+2025-04-06 04:36:52,546 - INFO - Gemini API configured
+2025-04-06 04:36:52,546 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:36:55,079 - INFO - Successfully connected to MongoDB
+2025-04-06 04:36:55,081 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:36:55,094 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:36:55,094 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:36:55,263 - INFO - 127.0.0.1 - - [06/Apr/2025 04:36:55] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:38:48,230 - INFO - Environment variables loaded
+2025-04-06 04:38:48,231 - INFO - Flask app created with CORS enabled
+2025-04-06 04:38:48,231 - INFO - Gemini API configured
+2025-04-06 04:38:48,231 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:38:50,283 - INFO - Successfully connected to MongoDB
+2025-04-06 04:38:50,286 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:38:50,311 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:38:50,311 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:38:50,575 - INFO - 127.0.0.1 - - [06/Apr/2025 04:38:50] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:41:03,092 - INFO - Environment variables loaded
+2025-04-06 04:41:03,094 - INFO - Flask app created with CORS enabled
+2025-04-06 04:41:03,094 - INFO - Gemini API configured
+2025-04-06 04:41:03,095 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:41:04,430 - INFO - Successfully connected to MongoDB
+2025-04-06 04:41:04,433 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:41:04,447 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:41:04,448 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:41:05,747 - INFO - 127.0.0.1 - - [06/Apr/2025 04:41:05] "GET /health HTTP/1.1" 200 -
+2025-04-06 04:49:14,621 - INFO - Environment variables loaded
+2025-04-06 04:49:14,624 - INFO - Flask app created with CORS enabled
+2025-04-06 04:49:14,624 - INFO - Gemini API configured
+2025-04-06 04:49:14,624 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 04:49:16,373 - INFO - Successfully connected to MongoDB
+2025-04-06 04:49:16,375 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 04:49:16,390 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 04:49:16,390 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 04:49:16,722 - INFO - 127.0.0.1 - - [06/Apr/2025 04:49:16] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:31:14,641 - INFO - Environment variables loaded
+2025-04-06 05:31:14,644 - INFO - Flask app created with CORS enabled
+2025-04-06 05:31:14,644 - INFO - Gemini API configured
+2025-04-06 05:31:14,644 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:31:16,004 - INFO - Successfully connected to MongoDB
+2025-04-06 05:31:16,007 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:31:16,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:31:16,024 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:31:16,899 - INFO - 127.0.0.1 - - [06/Apr/2025 05:31:16] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:46:05,640 - INFO - Environment variables loaded
+2025-04-06 05:46:05,642 - INFO - Flask app created with CORS enabled
+2025-04-06 05:46:05,642 - INFO - Gemini API configured
+2025-04-06 05:46:05,642 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:46:07,263 - INFO - Successfully connected to MongoDB
+2025-04-06 05:46:07,265 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:46:07,279 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:46:07,280 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:46:08,278 - INFO - 127.0.0.1 - - [06/Apr/2025 05:46:08] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:46:54,544 - INFO - Environment variables loaded
+2025-04-06 05:46:54,546 - INFO - Flask app created with CORS enabled
+2025-04-06 05:46:54,546 - INFO - Gemini API configured
+2025-04-06 05:46:54,546 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:46:56,058 - INFO - Successfully connected to MongoDB
+2025-04-06 05:46:56,060 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:46:56,077 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:46:56,077 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:46:57,208 - INFO - 127.0.0.1 - - [06/Apr/2025 05:46:57] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:47:54,326 - INFO - Environment variables loaded
+2025-04-06 05:47:54,329 - INFO - Flask app created with CORS enabled
+2025-04-06 05:47:54,329 - INFO - Gemini API configured
+2025-04-06 05:47:54,329 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:47:56,165 - INFO - Successfully connected to MongoDB
+2025-04-06 05:47:56,166 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:47:56,181 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:47:56,181 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:47:56,896 - INFO - 127.0.0.1 - - [06/Apr/2025 05:47:56] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:48:59,613 - INFO - Environment variables loaded
+2025-04-06 05:48:59,614 - INFO - Flask app created with CORS enabled
+2025-04-06 05:48:59,615 - INFO - Gemini API configured
+2025-04-06 05:48:59,615 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:49:00,893 - INFO - Successfully connected to MongoDB
+2025-04-06 05:49:00,895 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:49:00,909 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:49:00,909 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:49:02,283 - INFO - 127.0.0.1 - - [06/Apr/2025 05:49:02] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:50:30,492 - INFO - Environment variables loaded
+2025-04-06 05:50:30,493 - INFO - Flask app created with CORS enabled
+2025-04-06 05:50:30,493 - INFO - Gemini API configured
+2025-04-06 05:50:30,493 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:50:31,963 - INFO - Successfully connected to MongoDB
+2025-04-06 05:50:31,965 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:50:31,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:50:31,980 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:50:33,100 - INFO - 127.0.0.1 - - [06/Apr/2025 05:50:33] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:52:28,195 - INFO - Environment variables loaded
+2025-04-06 05:52:28,200 - INFO - Flask app created with CORS enabled
+2025-04-06 05:52:28,200 - INFO - Gemini API configured
+2025-04-06 05:52:28,201 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:52:29,656 - INFO - Successfully connected to MongoDB
+2025-04-06 05:52:29,658 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:52:29,676 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:52:29,677 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:52:30,054 - INFO - 127.0.0.1 - - [06/Apr/2025 05:52:30] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:54:51,362 - INFO - Environment variables loaded
+2025-04-06 05:54:51,367 - INFO - Flask app created with CORS enabled
+2025-04-06 05:54:51,367 - INFO - Gemini API configured
+2025-04-06 05:54:51,367 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:54:52,842 - INFO - Successfully connected to MongoDB
+2025-04-06 05:54:52,844 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:54:52,864 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:54:52,864 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:54:56,887 - INFO - Environment variables loaded
+2025-04-06 05:54:56,889 - INFO - Flask app created with CORS enabled
+2025-04-06 05:54:56,890 - INFO - Gemini API configured
+2025-04-06 05:54:56,890 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:54:57,821 - INFO - Successfully connected to MongoDB
+2025-04-06 05:54:57,824 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:54:57,841 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:54:57,842 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:54:58,241 - INFO - 127.0.0.1 - - [06/Apr/2025 05:54:58] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:55:27,723 - INFO - Environment variables loaded
+2025-04-06 05:55:27,726 - INFO - Flask app created with CORS enabled
+2025-04-06 05:55:27,726 - INFO - Gemini API configured
+2025-04-06 05:55:27,726 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:55:29,604 - INFO - Successfully connected to MongoDB
+2025-04-06 05:55:29,607 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:55:29,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:55:29,621 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:55:30,420 - INFO - 127.0.0.1 - - [06/Apr/2025 05:55:30] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:55:33,939 - INFO - Environment variables loaded
+2025-04-06 05:55:33,941 - INFO - Flask app created with CORS enabled
+2025-04-06 05:55:33,941 - INFO - Gemini API configured
+2025-04-06 05:55:33,942 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:55:35,236 - INFO - Successfully connected to MongoDB
+2025-04-06 05:55:35,238 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:55:35,252 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:55:35,253 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:55:36,612 - INFO - 127.0.0.1 - - [06/Apr/2025 05:55:36] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:56:29,976 - INFO - Environment variables loaded
+2025-04-06 05:56:29,978 - INFO - Flask app created with CORS enabled
+2025-04-06 05:56:29,978 - INFO - Gemini API configured
+2025-04-06 05:56:29,978 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:56:31,542 - INFO - Successfully connected to MongoDB
+2025-04-06 05:56:31,543 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:56:31,558 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:56:31,558 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:56:32,318 - INFO - 127.0.0.1 - - [06/Apr/2025 05:56:32] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:57:22,152 - INFO - Environment variables loaded
+2025-04-06 05:57:22,154 - INFO - Flask app created with CORS enabled
+2025-04-06 05:57:22,154 - INFO - Gemini API configured
+2025-04-06 05:57:22,154 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:57:23,277 - INFO - Successfully connected to MongoDB
+2025-04-06 05:57:23,280 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:57:23,293 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:57:23,293 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:57:24,632 - INFO - 127.0.0.1 - - [06/Apr/2025 05:57:24] "GET /health HTTP/1.1" 200 -
+2025-04-06 05:57:24,880 - ERROR - Error on request:
+Traceback (most recent call last):
+  File "C:\python3.11.5\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\python3.11.5\Lib\site-packages\werkzeug\serving.py", line 355, in execute
+    data = self.rfile.read(10_000_000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+MemoryError
+2025-04-06 05:58:12,975 - INFO - Environment variables loaded
+2025-04-06 05:58:12,977 - INFO - Flask app created with CORS enabled
+2025-04-06 05:58:12,977 - INFO - Gemini API configured
+2025-04-06 05:58:12,977 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 05:58:14,232 - INFO - Successfully connected to MongoDB
+2025-04-06 05:58:14,234 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 05:58:14,248 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 05:58:14,248 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 05:58:15,380 - INFO - 127.0.0.1 - - [06/Apr/2025 05:58:15] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:01:37,983 - INFO - Environment variables loaded
+2025-04-06 06:01:37,986 - INFO - Flask app created with CORS enabled
+2025-04-06 06:01:37,986 - INFO - Gemini API configured
+2025-04-06 06:01:37,986 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:01:39,848 - INFO - Successfully connected to MongoDB
+2025-04-06 06:01:39,850 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:01:39,867 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:01:39,868 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:01:40,087 - INFO - 127.0.0.1 - - [06/Apr/2025 06:01:40] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:01:43,703 - INFO - Environment variables loaded
+2025-04-06 06:01:43,705 - INFO - Flask app created with CORS enabled
+2025-04-06 06:01:43,705 - INFO - Gemini API configured
+2025-04-06 06:01:43,707 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:01:45,410 - INFO - Successfully connected to MongoDB
+2025-04-06 06:01:45,412 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:01:45,428 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:01:45,428 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:01:46,292 - INFO - 127.0.0.1 - - [06/Apr/2025 06:01:46] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:09:00,819 - INFO - Environment variables loaded
+2025-04-06 06:09:00,821 - INFO - Flask app created with CORS enabled
+2025-04-06 06:09:00,821 - INFO - Gemini API configured
+2025-04-06 06:09:00,821 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:09:02,233 - INFO - Successfully connected to MongoDB
+2025-04-06 06:09:02,234 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:09:02,258 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.25.248.213:5003
+2025-04-06 06:09:02,258 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:09:02,571 - INFO - 127.0.0.1 - - [06/Apr/2025 06:09:02] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:24:12,696 - INFO - Environment variables loaded
+2025-04-06 06:24:12,699 - INFO - Flask app created with CORS enabled
+2025-04-06 06:24:12,699 - INFO - Gemini API configured
+2025-04-06 06:24:12,699 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:24:14,581 - INFO - Successfully connected to MongoDB
+2025-04-06 06:24:14,583 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:24:14,622 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:24:14,622 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:24:18,075 - INFO - 127.0.0.1 - - [06/Apr/2025 06:24:18] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:24:42,781 - INFO - 127.0.0.1 - - [06/Apr/2025 06:24:42] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:24:49,316 - INFO - 127.0.0.1 - - [06/Apr/2025 06:24:49] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:25:42,101 - INFO - Environment variables loaded
+2025-04-06 06:25:42,103 - INFO - Flask app created with CORS enabled
+2025-04-06 06:25:42,103 - INFO - Gemini API configured
+2025-04-06 06:25:42,103 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:25:44,494 - INFO - Successfully connected to MongoDB
+2025-04-06 06:25:44,496 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:25:44,514 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:25:44,514 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:25:44,979 - INFO - 127.0.0.1 - - [06/Apr/2025 06:25:44] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:28:01,020 - INFO - Environment variables loaded
+2025-04-06 06:28:01,022 - INFO - Flask app created with CORS enabled
+2025-04-06 06:28:01,023 - INFO - Gemini API configured
+2025-04-06 06:28:01,023 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:28:02,982 - INFO - Successfully connected to MongoDB
+2025-04-06 06:28:02,984 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:28:03,008 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:28:03,008 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:28:03,086 - INFO - 127.0.0.1 - - [06/Apr/2025 06:28:03] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:30:14,414 - INFO - 127.0.0.1 - - [06/Apr/2025 06:30:14] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:40:57,267 - INFO - 127.0.0.1 - - [06/Apr/2025 06:40:57] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:50:44,713 - INFO - Environment variables loaded
+2025-04-06 06:50:44,716 - INFO - Flask app created with CORS enabled
+2025-04-06 06:50:44,717 - INFO - Gemini API configured
+2025-04-06 06:50:44,717 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:50:46,589 - INFO - Successfully connected to MongoDB
+2025-04-06 06:50:46,591 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:50:46,607 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:50:46,607 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:50:46,700 - INFO - 127.0.0.1 - - [06/Apr/2025 06:50:46] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:50:51,550 - INFO - Environment variables loaded
+2025-04-06 06:50:51,552 - INFO - Flask app created with CORS enabled
+2025-04-06 06:50:51,552 - INFO - Gemini API configured
+2025-04-06 06:50:51,552 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:50:53,753 - INFO - Successfully connected to MongoDB
+2025-04-06 06:50:53,755 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:50:53,773 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:50:53,773 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:50:53,945 - INFO - 127.0.0.1 - - [06/Apr/2025 06:50:53] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:52:59,378 - INFO - Environment variables loaded
+2025-04-06 06:52:59,379 - INFO - Flask app created with CORS enabled
+2025-04-06 06:52:59,380 - INFO - Gemini API configured
+2025-04-06 06:52:59,380 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:53:01,346 - INFO - Successfully connected to MongoDB
+2025-04-06 06:53:01,347 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:53:01,362 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:53:01,362 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:53:01,964 - INFO - 127.0.0.1 - - [06/Apr/2025 06:53:01] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:53:05,369 - INFO - Environment variables loaded
+2025-04-06 06:53:05,371 - INFO - Flask app created with CORS enabled
+2025-04-06 06:53:05,371 - INFO - Gemini API configured
+2025-04-06 06:53:05,372 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:53:07,254 - INFO - Successfully connected to MongoDB
+2025-04-06 06:53:07,259 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:53:07,276 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:53:07,276 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:53:08,403 - INFO - 127.0.0.1 - - [06/Apr/2025 06:53:08] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:55:45,857 - INFO - Environment variables loaded
+2025-04-06 06:55:45,858 - INFO - Flask app created with CORS enabled
+2025-04-06 06:55:45,858 - INFO - Gemini API configured
+2025-04-06 06:55:45,858 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:55:47,213 - INFO - Successfully connected to MongoDB
+2025-04-06 06:55:47,215 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:55:47,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:55:47,231 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:55:48,260 - INFO - 127.0.0.1 - - [06/Apr/2025 06:55:48] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:55:51,717 - INFO - Environment variables loaded
+2025-04-06 06:55:51,718 - INFO - Flask app created with CORS enabled
+2025-04-06 06:55:51,718 - INFO - Gemini API configured
+2025-04-06 06:55:51,719 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:55:54,795 - INFO - 127.0.0.1 - - [06/Apr/2025 06:55:54] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:55:56,865 - INFO - Successfully connected to MongoDB
+2025-04-06 06:55:56,867 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:55:56,885 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:55:56,885 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:57:41,121 - INFO - Environment variables loaded
+2025-04-06 06:57:41,123 - INFO - Flask app created with CORS enabled
+2025-04-06 06:57:41,123 - INFO - Gemini API configured
+2025-04-06 06:57:41,123 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:57:42,597 - INFO - Successfully connected to MongoDB
+2025-04-06 06:57:42,599 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:57:42,626 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:57:42,627 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:57:44,140 - INFO - 127.0.0.1 - - [06/Apr/2025 06:57:44] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:58:28,125 - INFO - Environment variables loaded
+2025-04-06 06:58:28,127 - INFO - Flask app created with CORS enabled
+2025-04-06 06:58:28,128 - INFO - Gemini API configured
+2025-04-06 06:58:28,128 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:58:29,461 - INFO - Successfully connected to MongoDB
+2025-04-06 06:58:29,464 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:58:29,479 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:58:29,480 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:58:31,209 - INFO - 127.0.0.1 - - [06/Apr/2025 06:58:31] "GET /health HTTP/1.1" 200 -
+2025-04-06 06:58:35,199 - INFO - Environment variables loaded
+2025-04-06 06:58:35,201 - INFO - Flask app created with CORS enabled
+2025-04-06 06:58:35,201 - INFO - Gemini API configured
+2025-04-06 06:58:35,201 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 06:58:36,670 - INFO - Successfully connected to MongoDB
+2025-04-06 06:58:36,672 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 06:58:36,703 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 06:58:36,703 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 06:58:37,755 - INFO - 127.0.0.1 - - [06/Apr/2025 06:58:37] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:06:02,524 - INFO - Environment variables loaded
+2025-04-06 07:06:02,526 - INFO - Flask app created with CORS enabled
+2025-04-06 07:06:02,526 - INFO - Gemini API configured
+2025-04-06 07:06:02,526 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:06:04,213 - INFO - Successfully connected to MongoDB
+2025-04-06 07:06:04,216 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:06:04,265 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:06:04,266 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:06:07,801 - INFO - Environment variables loaded
+2025-04-06 07:06:07,805 - INFO - Flask app created with CORS enabled
+2025-04-06 07:06:07,805 - INFO - Gemini API configured
+2025-04-06 07:06:07,805 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:06:08,520 - INFO - 127.0.0.1 - - [06/Apr/2025 07:06:08] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:06:09,291 - INFO - Successfully connected to MongoDB
+2025-04-06 07:06:09,293 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:06:09,347 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:06:09,347 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:07:47,150 - INFO - Environment variables loaded
+2025-04-06 07:07:47,152 - INFO - Flask app created with CORS enabled
+2025-04-06 07:07:47,152 - INFO - Gemini API configured
+2025-04-06 07:07:47,152 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:07:48,656 - INFO - Successfully connected to MongoDB
+2025-04-06 07:07:48,658 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:07:48,685 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:07:48,685 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:07:50,063 - INFO - 127.0.0.1 - - [06/Apr/2025 07:07:50] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:07:53,734 - INFO - Environment variables loaded
+2025-04-06 07:07:53,736 - INFO - Flask app created with CORS enabled
+2025-04-06 07:07:53,736 - INFO - Gemini API configured
+2025-04-06 07:07:53,736 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:07:55,175 - INFO - Successfully connected to MongoDB
+2025-04-06 07:07:55,177 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:07:55,191 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:07:55,191 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:07:56,708 - INFO - 127.0.0.1 - - [06/Apr/2025 07:07:56] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:10:01,471 - INFO - Environment variables loaded
+2025-04-06 07:10:01,473 - INFO - Flask app created with CORS enabled
+2025-04-06 07:10:01,473 - INFO - Gemini API configured
+2025-04-06 07:10:01,473 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:10:02,622 - INFO - Successfully connected to MongoDB
+2025-04-06 07:10:02,624 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:10:02,638 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:10:02,639 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:10:04,336 - INFO - 127.0.0.1 - - [06/Apr/2025 07:10:04] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:10:07,767 - INFO - Environment variables loaded
+2025-04-06 07:10:07,769 - INFO - Flask app created with CORS enabled
+2025-04-06 07:10:07,769 - INFO - Gemini API configured
+2025-04-06 07:10:07,770 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:10:08,909 - INFO - Successfully connected to MongoDB
+2025-04-06 07:10:08,910 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:10:08,927 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:10:08,927 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:10:10,728 - INFO - 127.0.0.1 - - [06/Apr/2025 07:10:10] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:11:38,187 - INFO - Environment variables loaded
+2025-04-06 07:11:38,191 - INFO - Flask app created with CORS enabled
+2025-04-06 07:11:38,192 - INFO - Gemini API configured
+2025-04-06 07:11:38,192 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:11:39,520 - INFO - Successfully connected to MongoDB
+2025-04-06 07:11:39,522 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:11:39,536 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:11:39,536 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:11:41,106 - INFO - 127.0.0.1 - - [06/Apr/2025 07:11:41] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:11:44,450 - INFO - Environment variables loaded
+2025-04-06 07:11:44,452 - INFO - Flask app created with CORS enabled
+2025-04-06 07:11:44,453 - INFO - Gemini API configured
+2025-04-06 07:11:44,453 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:11:45,888 - INFO - Successfully connected to MongoDB
+2025-04-06 07:11:45,890 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:11:45,903 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:11:45,904 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:11:47,458 - INFO - 127.0.0.1 - - [06/Apr/2025 07:11:47] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:13:53,809 - INFO - Environment variables loaded
+2025-04-06 07:13:53,810 - INFO - Flask app created with CORS enabled
+2025-04-06 07:13:53,810 - INFO - Gemini API configured
+2025-04-06 07:13:53,811 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:13:55,018 - INFO - Successfully connected to MongoDB
+2025-04-06 07:13:55,019 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:13:55,035 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:13:55,035 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:13:56,814 - INFO - 127.0.0.1 - - [06/Apr/2025 07:13:56] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:14:00,327 - INFO - Environment variables loaded
+2025-04-06 07:14:00,330 - INFO - Flask app created with CORS enabled
+2025-04-06 07:14:00,330 - INFO - Gemini API configured
+2025-04-06 07:14:00,330 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:14:01,879 - INFO - Successfully connected to MongoDB
+2025-04-06 07:14:01,881 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:14:01,894 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:14:01,895 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:14:03,318 - INFO - 127.0.0.1 - - [06/Apr/2025 07:14:03] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:15:20,879 - INFO - Environment variables loaded
+2025-04-06 07:15:20,881 - INFO - Flask app created with CORS enabled
+2025-04-06 07:15:20,881 - INFO - Gemini API configured
+2025-04-06 07:15:20,882 - INFO - Attempting to connect to MongoDB at mongodb+srv://gamingworld448:VD6Us86aukIKOcST@cluster0.hxoebiy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-04-06 07:15:22,044 - INFO - Successfully connected to MongoDB
+2025-04-06 07:15:22,047 - INFO - Starting mentor_processor service on port 5003
+2025-04-06 07:15:22,075 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.97.185:5003
+2025-04-06 07:15:22,076 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-06 07:15:23,615 - INFO - 127.0.0.1 - - [06/Apr/2025 07:15:23] "GET /health HTTP/1.1" 200 -
+2025-04-06 07:18:52,461 - INFO - 127.0.0.1 - - [06/Apr/2025 07:18:52] "GET /health HTTP/1.1" 200 -
